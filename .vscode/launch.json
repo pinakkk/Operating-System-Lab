@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/workspaces/Operating-System-Lab/Exp4 - Dir Manipulation/getcwd, chdir, rmdir",
-      "program": "/workspaces/Operating-System-Lab/Exp4 - Dir Manipulation/getcwd, chdir, rmdir/build/Debug/outDebug",
+      "cwd": "/workspaces/Operating-System-Lab/Exp 5 - Process Management/Make Orphan",
+      "program": "/workspaces/Operating-System-Lab/Exp 5 - Process Management/Make Orphan/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

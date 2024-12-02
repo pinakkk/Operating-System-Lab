@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": ".",
-      "program": "build/Debug/outDebug",
+      "cwd": "/workspaces/Operating-System-Lab/Exp3 - File Manipulation/Stat System Call",
+      "program": "/workspaces/Operating-System-Lab/Exp3 - File Manipulation/Stat System Call/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
